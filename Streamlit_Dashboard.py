@@ -8,7 +8,14 @@ st.set_page_config(
     page_title="Insurance Premium Predictor",
     page_icon="💰",
     layout="wide",
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="collapsed",
+    theme={
+        "base": "dark",
+        "primaryColor": "#1f77b4",
+        "backgroundColor": "#0e1117",
+        "secondaryBackgroundColor": "#262730",
+        "textColor": "#fafafa",
+    }
 )
 
 # Enhanced CSS for better styling
