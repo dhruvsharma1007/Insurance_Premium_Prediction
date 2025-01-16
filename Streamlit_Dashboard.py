@@ -258,6 +258,6 @@ st.markdown("""
     <div style='text-align: center; color: #666; background-color: #f8fafc; padding: 20px; border-radius: 10px;'>
         <p style='font-size: 0.9em;'>📊 This prediction model uses advanced machine learning algorithms trained on historical insurance data.</p>
         <p style='font-size: 0.9em;'>⚠️ This tool provides estimates only. Please consult with an insurance provider for accurate quotes.</p>
-        <p style='font-size: 0.8em; color: #888;'>© 2024 Insurance Premium Predictor</p>
+        <p style='font-size: 0.8em; color: #888;'>© 2025 Insurance Premium Predictor</p>
     </div>
 """, unsafe_allow_html=True)
