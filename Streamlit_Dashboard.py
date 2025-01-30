@@ -192,7 +192,7 @@ with tabs[2]:
                 st.markdown(
                     f"""
                     <div class="prediction-box">
-                        <h1 style='color: #1f77b4; font-size: 2.5em;'>₹{prediction:,.2f}</h1>
+                        <h1 style='color: #1f77b4; font-size: 2.5em;'>${prediction:,.2f}</h1>
                         <p style='color: #666; font-size: 1.2em;'>Estimated Annual Premium</p>
                     </div>
                     """,
